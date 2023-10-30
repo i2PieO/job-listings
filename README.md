@@ -13,4 +13,5 @@ npx create-expo-app -e with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 
-##![WhatsApp Image 2023-10-30 at 5 48 09 AM](https://github.com/i2PieO/job-listings/assets/102740106/b63ab23f-4a76-4824-9cad-e600b21c2446)
+![Screenshot (64)](https://github.com/i2PieO/job-listings/assets/102740106/4b1857a0-bf05-4223-b88a-071608283685)
+
